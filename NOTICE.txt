@@ -1,0 +1,16 @@
+AIPICORA search model files (release search-1)
+
+siglip2_vision_int8.onnx
+  The image (vision) encoder of Google SigLIP 2 base, patch 16, 224 px
+  (google/siglip2-base-patch16-224), licensed under the Apache License 2.0.
+  Int8 ONNX export published by onnx-community on Hugging Face.
+  Not modified by AIPICORA. See LICENSE-APACHE-2.0.txt.
+
+search_table_wordnet_1.bin
+  Text descriptions (embeddings) of 25,470 English words and phrases taken
+  from WordNet 3.0, computed with the matching SigLIP 2 text encoder
+  (Apache License 2.0). The word list is a modification of WordNet 3.0.
+
+  WordNet 3.0 Copyright 2006 by Princeton University. All rights reserved.
+  Used under the WordNet licence; its full text, including the disclaimer,
+  is in LICENSE-WORDNET.txt.

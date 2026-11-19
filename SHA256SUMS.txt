@@ -1,0 +1,2 @@
+26bd475e0878c5546ab39d1aee20afe4a56324861c23aaace34efedd9bd4da0b *search_table_wordnet_1.bin
+0dd31785a2713f1113ef2272472165c69d580473dae38d7b47568ac587795e70 *siglip2_vision_int8.onnx
